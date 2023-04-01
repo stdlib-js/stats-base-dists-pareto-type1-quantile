@@ -30,10 +30,14 @@ The [quantile function][quantile-function] for a [Pareto (Type I)][pareto-distri
 
 <!-- <equation class="equation" label="eq:pareto_type1_quantile_function" align="center" raw="Q(p) = \beta \left( 1 - p \right)^{- 1 / \alpha }" alt="Quantile function for a Pareto (Type I) distribution."> -->
 
-<div class="equation" align="center" data-raw-text="Q(p) = \beta \left( 1 - p \right)^{- 1 / \alpha }" data-equation="eq:pareto_type1_quantile_function">
+```math
+Q(p) = \beta \left( 1 - p \right)^{- 1 / \alpha }
+```
+
+<!-- <div class="equation" align="center" data-raw-text="Q(p) = \beta \left( 1 - p \right)^{- 1 / \alpha }" data-equation="eq:pareto_type1_quantile_function">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@591cf9d5c3a0cd3c1ceec961e5c49d73a68374cb/lib/node_modules/@stdlib/stats/base/dists/pareto-type1/quantile/docs/img/equation_pareto_type1_quantile_function.svg" alt="Quantile function for a Pareto (Type I) distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -234,7 +238,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
