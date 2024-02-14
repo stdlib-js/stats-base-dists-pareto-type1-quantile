@@ -65,13 +65,13 @@ for `0 <= p < 1`, where `alpha` is the shape parameter and `beta` is the scale p
 ## Usage
 
 ```javascript
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-quantile@esm/index.mjs';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-quantile@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-quantile@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-quantile@v0.2.0-esm/index.mjs';
 ```
 
 #### quantile( p, alpha, beta )
@@ -162,7 +162,7 @@ y = myquantile( 0.8 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-quantile@esm/index.mjs';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-quantile@v0.2.0-esm/index.mjs';
 
 var alpha;
 var beta;
