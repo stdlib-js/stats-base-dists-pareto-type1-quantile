@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-07-10)
+
+<section class="features">
+
+### Features
+
+-   [`b02e481`](https://github.com/stdlib-js/stdlib/commit/b02e481d876054cc7ea2845e45d1655931a82a0b) - add C implementation for `@stdlib/stats-base/dists/pareto-type1/quantile` [(#4308)](https://github.com/stdlib-js/stdlib/pull/4308)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+[#3864](https://github.com/stdlib-js/stdlib/issues/3864), [#4982](https://github.com/stdlib-js/stdlib/issues/4982)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b02e481`](https://github.com/stdlib-js/stdlib/commit/b02e481d876054cc7ea2845e45d1655931a82a0b) - **feat:** add C implementation for `@stdlib/stats-base/dists/pareto-type1/quantile` [(#4308)](https://github.com/stdlib-js/stdlib/pull/4308) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`4d79bde`](https://github.com/stdlib-js/stdlib/commit/4d79bde011701144a125ba35d58ed42f7ecc5961) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/pareto-type1` [(#5260)](https://github.com/stdlib-js/stdlib/pull/5260) _(by GK Bishnoi)_
 
 </details>
@@ -36,9 +47,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Dhruv Arvind Singh
 -   GK Bishnoi
+-   Philipp Burckhardt
 
 </section>
 
