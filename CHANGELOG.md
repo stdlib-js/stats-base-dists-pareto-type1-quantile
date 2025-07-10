@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`e213c1c`](https://github.com/stdlib-js/stdlib/commit/e213c1c16475f98510398204a1c3b8939081b2ac) - **docs:** add missing private annotation _(by Athan Reines)_
 -   [`b02e481`](https://github.com/stdlib-js/stdlib/commit/b02e481d876054cc7ea2845e45d1655931a82a0b) - **feat:** add C implementation for `@stdlib/stats-base/dists/pareto-type1/quantile` [(#4308)](https://github.com/stdlib-js/stdlib/pull/4308) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
 -   [`4d79bde`](https://github.com/stdlib-js/stdlib/commit/4d79bde011701144a125ba35d58ed42f7ecc5961) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/pareto-type1` [(#5260)](https://github.com/stdlib-js/stdlib/pull/5260) _(by GK Bishnoi)_
 
@@ -47,8 +48,9 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Dhruv Arvind Singh
 -   GK Bishnoi
 -   Philipp Burckhardt
