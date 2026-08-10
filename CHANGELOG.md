@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-26)
+## Unreleased (2026-08-10)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`476cf1d`](https://github.com/stdlib-js/stdlib/commit/476cf1d820ed2fd05550d80e8d53b531690430f2) - **test:** migrate `stats/base/dists/pareto-type1/quantile` to ULP-based assertions [(#14129)](https://github.com/stdlib-js/stdlib/pull/14129) _(by Athan Reines)_
 -   [`0295f28`](https://github.com/stdlib-js/stdlib/commit/0295f28fdb538a0e6f022fa544c1ee78bf818809) - **chore:** address commit comments [(#10665)](https://github.com/stdlib-js/stdlib/pull/10665) _(by Partha Das)_
 -   [`3badc70`](https://github.com/stdlib-js/stdlib/commit/3badc707161e55feca4501c7d031171a7813eb39) - **bench:** refactor to use string interpolation in `stats/base/dists/pareto-type1` [(#10467)](https://github.com/stdlib-js/stdlib/pull/10467) _(by Vishal Gaikwad)_
 
@@ -37,8 +38,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Partha Das
 -   Vishal Gaikwad
 
